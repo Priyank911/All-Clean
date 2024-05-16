@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831559999532",
+    "project_id": "mast-wash-c217a",
+    "storage_bucket": "mast-wash-c217a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831559999532:android:5963edc16adbaf7812f189",
+        "android_client_info": {
+          "package_name": "com.example.allclean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJYbiq40obrpuJlO-zQFd1-9Ra4llb9z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
